@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome
 #### 10
-#### 11 Making a conflict merge
+#### 11 SEP is the best class
 #### 12
 #### 13
 #### 14
