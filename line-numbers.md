@@ -1,4 +1,4 @@
-#### 1
+#### Doing task 1 (Merging together)
 #### 2
 #### 3
 #### 4
